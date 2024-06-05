@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <allegro.h>
-#include "IsometricCube.h"
+#include "header.h"
 
 #define SCREEN_W 700
 #define SCREEN_H_PSEUDO 500//separe la partie matrice case et matrice élement
