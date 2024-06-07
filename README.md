@@ -4,6 +4,7 @@ Simple C Isometric World map builder
 Meant to test isometric skills and BITMAPs, this project deals with isometric tiles and allegro to help build little maps with a variety of tiles.
 Project by Tay9875
 
+## Preview
 <details>
   <summary>My maps</summary>
   <img src="https://github.com/Tay9875/World-Map/assets/96668181/c02b8d1d-0620-4112-8998-79e2063c63d7"/>
